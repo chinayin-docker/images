@@ -103,3 +103,17 @@ unexpected.
 ![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/chinayin/canal?sort=semver)
 ![Docker Pulls](https://img.shields.io/docker/pulls/chinayin/canal)
 
+--- 
+
+### hfish
+
+安全、可靠、简单、免费的企业级蜜罐
+
+[![](https://img.shields.io/badge/github-chinayin--docker/hfish-brightgreen)](https://github.com/chinayin-docker/hfish)
+[![](https://img.shields.io/badge/dockerhub-chinayin/hfish-brightgreen)](https://hub.docker.com/repository/docker/chinayin/hfish)
+
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/chinayin-docker/hfish/Docker%20Image%20CI)
+![Docker Image Version (latest semver)](https://img.shields.io/docker/v/chinayin/hfish?sort=semver)
+![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/chinayin/hfish?sort=semver)
+![Docker Pulls](https://img.shields.io/docker/pulls/chinayin/hfish)
+
