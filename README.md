@@ -112,8 +112,7 @@ unexpected.
 [![](https://img.shields.io/badge/github-chinayin--docker/hfish-brightgreen)](https://github.com/chinayin-docker/hfish)
 [![](https://img.shields.io/badge/dockerhub-chinayin/hfish-brightgreen)](https://hub.docker.com/repository/docker/chinayin/hfish)
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/chinayin-docker/hfish/Docker%20Image%20CI)
+[![Docker Image CI](https://github.com/chinayin-docker/hfish/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/chinayin-docker/hfish/actions/workflows/ci.yml)
 ![Docker Image Version (latest semver)](https://img.shields.io/docker/v/chinayin/hfish?sort=semver)
 ![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/chinayin/hfish?sort=semver)
 ![Docker Pulls](https://img.shields.io/docker/pulls/chinayin/hfish)
-
