@@ -23,7 +23,7 @@ While designed for web development, the PHP scripting language also provides gen
 [![](https://img.shields.io/badge/github-chinayin--docker/php-brightgreen)](https://github.com/chinayin-docker/php)
 [![](https://img.shields.io/badge/dockerhub-chinayin/php-brightgreen)](https://hub.docker.com/repository/docker/chinayin/php)
 
-[![Docker Image CI](https://github.com/chinayin-docker/openjdk/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/chinayin-docker/openjdk/actions/workflows/ci.yml)
+[![Docker Image CI](https://github.com/chinayin-docker/php/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/chinayin-docker/php/actions/workflows/ci.yml)
 ![Docker Image Version (latest semver)](https://img.shields.io/docker/v/chinayin/php?sort=semver)
 ![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/chinayin/php?sort=semver)
 ![Docker Pulls](https://img.shields.io/docker/pulls/chinayin/php)
@@ -50,7 +50,7 @@ Node.js is a JavaScript-based platform for server-side and networking applicatio
 [![](https://img.shields.io/badge/github-chinayin--docker/node-brightgreen)](https://github.com/chinayin-docker/node)
 [![](https://img.shields.io/badge/dockerhub-chinayin/node-brightgreen)](https://hub.docker.com/repository/docker/chinayin/node)
 
-[![Docker Image CI](https://github.com/chinayin-docker/node/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/chinayin-docker/php/actions/workflows/ci.yml)
+[![Docker Image CI](https://github.com/chinayin-docker/node/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/chinayin-docker/node/actions/workflows/ci.yml)
 ![Docker Image Version (latest semver)](https://img.shields.io/docker/v/chinayin/node?sort=semver)
 ![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/chinayin/node?sort=semver)
 ![Docker Pulls](https://img.shields.io/docker/pulls/chinayin/node)
