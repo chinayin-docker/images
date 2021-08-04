@@ -89,6 +89,21 @@ unexpected.
 ![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/chinayin/elasticsearch?sort=semver)
 ![Docker Pulls](https://img.shields.io/docker/pulls/chinayin/elasticsearch)
 
+---
+
+### kibana
+
+Kibana is your window into the Elastic Stack. Specifically, it's a browser-based analytics and search dashboard for
+Elasticsearch.
+
+[![](https://img.shields.io/badge/github-chinayin--docker/kibana-brightgreen)](https://github.com/chinayin-docker/kibana)
+[![](https://img.shields.io/badge/dockerhub-chinayin/kibana-brightgreen)](https://hub.docker.com/repository/docker/chinayin/kibana)
+
+[![Docker Image CI](https://github.com/chinayin-docker/kibana/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/chinayin-docker/kibana/actions/workflows/ci.yml)
+![Docker Image Version (latest semver)](https://img.shields.io/docker/v/chinayin/kibana?sort=semver)
+![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/chinayin/kibana?sort=semver)
+![Docker Pulls](https://img.shields.io/docker/pulls/chinayin/kibana)
+
 --- 
 
 ### canal
