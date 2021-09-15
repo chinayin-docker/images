@@ -27,6 +27,7 @@ While designed for web development, the PHP scripting language also provides gen
 ![Docker Image Version (latest semver)](https://img.shields.io/docker/v/chinayin/php?sort=semver)
 ![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/chinayin/php?sort=semver)
 ![Docker Pulls](https://img.shields.io/docker/pulls/chinayin/php)
+
 ---
 
 ### openjdk
@@ -40,6 +41,21 @@ OpenJDK is an open-source implementation of the Java Platform, Standard Edition
 ![Docker Image Version (latest semver)](https://img.shields.io/docker/v/chinayin/openjdk?sort=semver)
 ![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/chinayin/openjdk?sort=semver)
 ![Docker Pulls](https://img.shields.io/docker/pulls/chinayin/openjdk)
+
+---
+
+### maven
+
+Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (
+POM), Maven can manage a project's build, reporting and documentation from a central piece of information.
+
+[![](https://img.shields.io/badge/github-chinayin--docker/maven-brightgreen)](https://github.com/chinayin-docker/maven)
+[![](https://img.shields.io/badge/dockerhub-chinayin/maven-brightgreen)](https://hub.docker.com/repository/docker/chinayin/maven)
+
+[![Docker Image CI](https://github.com/chinayin-docker/maven/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/chinayin-docker/maven/actions/workflows/ci.yml)
+![Docker Image Version (latest semver)](https://img.shields.io/docker/v/chinayin/maven?sort=semver)
+![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/chinayin/maven?sort=semver)
+![Docker Pulls](https://img.shields.io/docker/pulls/chinayin/maven)
 
 ---
 
@@ -72,6 +88,21 @@ port for Microsoft Windows.
 ![Docker Image Version (latest semver)](https://img.shields.io/docker/v/chinayin/nginx?sort=semver)
 ![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/chinayin/nginx?sort=semver)
 ![Docker Pulls](https://img.shields.io/docker/pulls/chinayin/nginx)
+
+---
+
+### openresty
+
+OpenResty is a full-fledged web application server by bundling the standard nginx core, lots of 3rd-party nginx modules,
+as well as most of their external dependencies.
+
+[![](https://img.shields.io/badge/github-chinayin--docker/openresty-brightgreen)](https://github.com/chinayin-docker/openresty)
+[![](https://img.shields.io/badge/dockerhub-chinayin/openresty-brightgreen)](https://hub.docker.com/repository/docker/chinayin/openresty)
+
+[![Docker Image CI](https://github.com/chinayin-docker/openresty/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/chinayin-docker/openresty/actions/workflows/ci.yml)
+![Docker Image Version (latest semver)](https://img.shields.io/docker/v/chinayin/openresty?sort=semver)
+![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/chinayin/openresty?sort=semver)
+![Docker Pulls](https://img.shields.io/docker/pulls/chinayin/openresty)
 
 ---
 
