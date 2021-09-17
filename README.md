@@ -162,3 +162,25 @@ Elasticsearch.
 ![Docker Image Version (latest semver)](https://img.shields.io/docker/v/chinayin/hfish?sort=semver)
 ![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/chinayin/hfish?sort=semver)
 ![Docker Pulls](https://img.shields.io/docker/pulls/chinayin/hfish)
+
+---
+
+### xxl-job
+
+A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
+
+[![](https://img.shields.io/badge/github-chinayin--docker/xxl--job--admin-brightgreen)](https://github.com/chinayin-docker/xxl-job-admin)
+[![](https://img.shields.io/badge/dockerhub-chinayin/xxl--job--admin-brightgreen)](https://hub.docker.com/repository/docker/chinayin/xxl-job-admin)
+
+[![Docker Image CI](https://github.com/chinayin-docker/xxl-job-admin/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/chinayin-docker/xxl-job-admin/actions/workflows/ci.yml)
+![Docker Image Version (latest semver)](https://img.shields.io/docker/v/chinayin/xxl-job-admin?sort=semver)
+![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/chinayin/xxl-job-admin?sort=semver)
+![Docker Pulls](https://img.shields.io/docker/pulls/chinayin/xxl-job-admin)
+
+[![](https://img.shields.io/badge/github-chinayin--docker/xxl--job--executor--springboot-brightgreen)](https://github.com/chinayin-docker/xxl-job-executor-springboot)
+[![](https://img.shields.io/badge/dockerhub-chinayin/xxl--job--executor--springboot-brightgreen)](https://hub.docker.com/repository/docker/chinayin/xxl-job-executor-springboot)
+
+[![Docker Image CI](https://github.com/chinayin-docker/xxl-job-executor-springboot/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/chinayin-docker/xxl-job-executor-springboot/actions/workflows/ci.yml)
+![Docker Image Version (latest semver)](https://img.shields.io/docker/v/chinayin/xxl-job-executor-springboot?sort=semver)
+![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/chinayin/xxl-job-executor-springboot?sort=semver)
+![Docker Pulls](https://img.shields.io/docker/pulls/chinayin/xxl-job-executor-springboot)
