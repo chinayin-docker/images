@@ -184,3 +184,17 @@ A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
 ![Docker Image Version (latest semver)](https://img.shields.io/docker/v/chinayin/xxl-job-executor-springboot?sort=semver)
 ![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/chinayin/xxl-job-executor-springboot?sort=semver)
 ![Docker Pulls](https://img.shields.io/docker/pulls/chinayin/xxl-job-executor-springboot)
+
+--- 
+
+### v2ray
+
+A platform for building proxies to bypass network restrictions.
+
+[![](https://img.shields.io/badge/github-chinayin--docker/v2ray-brightgreen)](https://github.com/chinayin-docker/v2ray)
+[![](https://img.shields.io/badge/dockerhub-chinayin/v2ray-brightgreen)](https://hub.docker.com/repository/docker/chinayin/v2ray)
+
+[![Docker Image CI](https://github.com/chinayin-docker/v2ray/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/chinayin-docker/v2ray/actions/workflows/ci.yml)
+![Docker Image Version (latest semver)](https://img.shields.io/docker/v/chinayin/v2ray?sort=semver)
+![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/chinayin/v2ray?sort=semver)
+![Docker Pulls](https://img.shields.io/docker/pulls/chinayin/v2ray)
